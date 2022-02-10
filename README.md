@@ -9,4 +9,11 @@
 ### 常砍程式的 Package Name
 
 - Chrome `com.android.chrome`
+- Google Play 影視 `com.google.android.videos`
+- Google Play 音樂 `com.google.android.music`
 - Facebook `com.facebook.katana`
+- Messenger `com.facebook.orca`
+- Facebook Services `com.facebook.services`
+- Facebook App Installer `com.facebook.system`
+- Facebook App Manager `com.facebook.appmanager`
+- 盈黑體 `com.monotype.android.font.myinghei18030m`
